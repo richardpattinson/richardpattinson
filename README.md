@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on an Asset Management Tool [Simple Asset Tracker][simple_asset_tracker]!
 - 🌱 I’m currently learning Django, React and Node.js
-- 👯 I’m looking for new projects to start
+- 👯 I’m looking for
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw, paint and cook
 
@@ -50,7 +50,7 @@
 <details>
   <summary>:zap: Github Stats</summary>
 
-  <img align="left" alt="richardpattinson's Github Stats" src="https://github-readme-stats.richardpattinson.vercel.app/api?username=richardpattinson&show_icons=true&hide_border=true" />
+  <img align="left" alt="richardpattinson's Github Stats" src="https://github-readme-stats.vercel.app/api?username=richardpattinson&show_icons=true&hide_border=true" />
 
 </details>
 

@@ -33,8 +33,8 @@ Aspiring developer and university of Bath Alumni. After graduating I worked for 
 
 ## Other Skills
 
-- Agile development, test-driven development, pair programming, storyboarding, process diagramming,  
-- A quick study, willing and able to pick up any tech stack
+- Agile development, test-driven development, pair programming, storyboarding, process diagramming.
+- A quick study, willing and able to pick up any tech stack.
 - Excellent team player, strong social skills and emotional intelligence, confident remote worker. 
 - Managing teams, leading meetings, organised with effective presentation skills.
 
@@ -44,15 +44,15 @@ Aspiring developer and university of Bath Alumni. After graduating I worked for 
 
 | Project           | Info            |
 | :------------:     | :-------------         |
-| [WanderList](https://github.com/Megscode/Wanderlist) <br /><br /><a href="https://github.com/Megscode/Wanderlist"><div align="center" width="500">![Wanderlist_Screenshot](screenshots/wanderlist.gif)</div></a> | <h4>Description</h4> Save your favourite walking routes, search routes near you and vote for your favourites. This is a Final Group project utilising the Google Maps, Directions and Places APIs<br/> <h4> Development & Testing </h4> Ruby, Rails, JavaScript, jQuery, Jasmine, ActiveRecord (postgreSQL), RSpec, Capybara <h4> Code Quality & Deployment </h4> Travis CI, Heroku, Rubocop, Code Climate | 
-| [SimpleAssetTracker](https://github.com/Megscode/Wanderlist) <br /><br /><a href="https://github.com/Megscode/Wanderlist"><div align="center" width="500">![Wanderlist_Screenshot](screenshots/wanderlist.gif)</div></a> | <h4>Description</h4> Save your favourite walking routes, search routes near you and vote for your favourites. This is a Final Group project utilising the Google Maps, Directions and Places APIs<br/> <h4> Development & Testing </h4> Ruby, Rails, JavaScript, jQuery, Jasmine, ActiveRecord (postgreSQL), RSpec, Capybara <h4> Code Quality & Deployment </h4> Travis CI, Heroku, Rubocop, Code Climate | 
+| [WanderList](https://github.com/Megscode/Wanderlist) <br /><br /><a href="https://github.com/Megscode/Wanderlist"><div align="center" width="500">![Wanderlist Site](https://github.com/Megscode/Wanderlist)</div></a> | <h4>Description</h4> Save your favourite walking routes, search routes near you and vote for your favourites. This is a Final Group project utilising the Google Maps, Directions and Places APIs<br/> <h4> Development & Testing </h4> Ruby, Rails, JavaScript, jQuery, Jasmine, ActiveRecord (postgreSQL), RSpec, Capybara <h4> Code Quality & Deployment </h4> Travis CI, Heroku, Rubocop, Code Climate | 
+| [SimpleAssetTracker](https://simple-asset-tracker.herokuapp.com/) <br /><br /><a href="https://simple-asset-tracker.herokuapp.com/"><div align="center" width="500">!</div></a> | <h4>Description</h4>A lightweight asset tracker, written with a Django backend and a React frontend with a small team of makers developers.<br/> <h4> Development & Testing </h4> Python, Django, JavaScript, React, Selinium, PostgreSQL, Unittest, Selinium <h4> Code Quality & Deployment </h4> Heroku, Simplcov, Codeship, Pycov| 
 
 
 ## Education
 
 #### Makers Academy (Dec '19 - Apr '20)
 
-
+After the end of my contract at Hampshire trust bank I embarked upon the next stage of my career training in software development. Primary languages studied were ruby, python and JavaScript. Please go to my GitHub linked in the header to see some examples of the projects I have worked on and the skills I have learned.
 
 #### University of Bath (Sept '14 - Jun '17)
 
@@ -73,7 +73,7 @@ Responsibilities Included: Running festival events, plate waiting, manual carryi
 
 **DanceStore Ltd | IT Manager** (University HolidaAug '15 - Oct '18)   
 
-Responsibilities Included: Updating and managing the Totaldance website, filing bug reports, organising email promotion campaigns, integrating a stock administration system and general technical support
+Responsibilities Included: Updating and managing the Totaldance website, filing bug reports, organising email promotion campaigns, integrating a stock administration system and general technical support.
 
 **IBM | PSM Analyst** (Jul '13 - May '14)   
 

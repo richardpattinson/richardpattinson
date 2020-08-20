@@ -9,14 +9,15 @@
   <img src="https://cdn3.iconfinder.com/data/icons/linecons-free-vector-icons-pack/32/mail-512.png" alt="email-icon" height="38" width="38" hspace="20"></a>
 
  **Software Developer based in London**<br/>
-[Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) 
-
+[Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Commits](#githubstats)
+S
 </div>
 
 Aspiring developer and university of Bath Alumni. After graduating I worked for Hampshire Trust Bank setting up Experian API calls using Snaplogic and developing front end internal applications using Matssoft. In order to build on the development skills and agile practices used at the bank, I enrolled at makers academy, a software development bootcamp with a great track record of aiding new developers to acquire hands on experience working in teams, designing, implementing and testing their own applications. These hard skills in the ruby, python and javascript languages along with the ancillary skills of good git collaboration practices and mastery of workﬂow tools (such as jira and trello) put me in a great position to be an asset to any development team.
 
+## Skills
 
-## Tech Skills
+# Tech Skills
 <div align="center">
 <a href="https://sourcerer.io/richardpattinson"><img src="https://img.shields.io/badge/Ruby-466%20commits-blue.svg" alt=""></a>
 <a href="https://sourcerer.io/richardpattinson"><img src="https://img.shields.io/badge/JavaScript-461%20commits-blue.svg" alt=""></a>
@@ -31,7 +32,7 @@ Aspiring developer and university of Bath Alumni. After graduating I worked for 
 - Tools: Git, PostgreSQL, Travis CI, Heroku, Code Climate, Codeship
 - HTML, CSS, Bootstrap, VSCode
 
-## Other Skills
+# Other Skills
 
 - Agile development, test-driven development, pair programming, storyboarding, process diagramming.
 - A quick study, willing and able to pick up any tech stack.
@@ -79,11 +80,8 @@ Responsibilities Included: Updating and managing the Totaldance website, filing 
 
 Responsibilities Included: Leading team meetings/conference calls, on site compliance auditing of data centers, excel spreadsheet manipulation, accessing SQL and CIRATS Databases, Scheduling meetings, interfacing with customers and internal IBM stakeholders, operations metrics reporting and organising internal IBM events.
 
-
-
-
+## GithubStats
 <p>
-  <h4>:zap: Github Stats</h4>
 
   <img align="left" alt="richardpattinson's Github Stats" src="https://github-readme-stats.vercel.app/api?username=richardpattinson&show_icons=true&hide_border=true" />
 

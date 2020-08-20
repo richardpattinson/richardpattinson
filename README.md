@@ -9,7 +9,7 @@
   <img src="https://cdn3.iconfinder.com/data/icons/linecons-free-vector-icons-pack/32/mail-512.png" alt="email-icon" height="38" width="38" hspace="20"></a>
 
  **Software Developer based in London**<br/>
-[Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests)
+[Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) 
 
 </div>
 

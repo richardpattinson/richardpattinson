@@ -10,7 +10,6 @@
 
  **Software Developer based in London**<br/>
 [Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Commits](#githubstats)
-S
 </div>
 
 Aspiring developer and university of Bath Alumni. After graduating I worked for Hampshire Trust Bank setting up Experian API calls using Snaplogic and developing front end internal applications using Matssoft. In order to build on the development skills and agile practices used at the bank, I enrolled at makers academy, a software development bootcamp with a great track record of aiding new developers to acquire hands on experience working in teams, designing, implementing and testing their own applications. These hard skills in the ruby, python and javascript languages along with the ancillary skills of good git collaboration practices and mastery of workﬂow tools (such as jira and trello) put me in a great position to be an asset to any development team.

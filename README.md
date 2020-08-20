@@ -44,8 +44,8 @@ Aspiring developer and university of Bath Alumni. After graduating I worked for 
 
 | Project           | Info            |
 | :------------:     | :-------------         |
-| [WanderList](https://github.com/Megscode/Wanderlist) <br /><br /><a href="https://github.com/Megscode/Wanderlist"><div align="center" width="500">![Wanderlist Site](https://github.com/Megscode/Wanderlist)</div></a> | <h4>Description</h4> Save your favourite walking routes, search routes near you and vote for your favourites. This is a Final Group project utilising the Google Maps, Directions and Places APIs<br/> <h4> Development & Testing </h4> Ruby, Rails, JavaScript, jQuery, Jasmine, ActiveRecord (postgreSQL), RSpec, Capybara <h4> Code Quality & Deployment </h4> Travis CI, Heroku, Rubocop, Code Climate | 
-| [SimpleAssetTracker](https://simple-asset-tracker.herokuapp.com/) <br /><br /><a href="https://simple-asset-tracker.herokuapp.com/"><div align="center" width="500">!</div></a> | <h4>Description</h4>A lightweight asset tracker, written with a Django backend and a React frontend with a small team of makers developers.<br/> <h4> Development & Testing </h4> Python, Django, JavaScript, React, Selinium, PostgreSQL, Unittest, Selinium <h4> Code Quality & Deployment </h4> Heroku, Simplcov, Codeship, Pycov| 
+| [WanderList_Repo](https://github.com/Megscode/Wanderlist) <br /><br /><a href="https://github.com/Megscode/Wanderlist"><div align="center" width="500">![Wanderlist Site](https://github.com/Megscode/Wanderlist)</div></a> | <h4>Description</h4> Save your favourite walking routes, search routes near you and vote for your favourites. This is a Final Group project utilising the Google Maps, Directions and Places APIs<br/> <h4> Development & Testing </h4> Ruby, Rails, JavaScript, jQuery, Jasmine, ActiveRecord (postgreSQL), RSpec, Capybara <h4> Code Quality & Deployment </h4> Travis CI, Heroku, Rubocop, Code Climate | 
+| [SimpleAssetTracker Site](https://simple-asset-tracker.herokuapp.com/) <br /><br /><a href="https://simple-asset-tracker.herokuapp.com/"><div align="center" width="500"></div></a> | <h4>Description</h4>A lightweight asset tracker, written with a Django backend and a React frontend with a small team of makers developers.<br/> <h4> Development & Testing </h4> Python, Django, JavaScript, React, Selinium, PostgreSQL, Unittest, Selinium <h4> Code Quality & Deployment </h4> Heroku, Simplcov, Codeship, Pycov| 
 
 
 ## Education
@@ -79,12 +79,11 @@ Responsibilities Included: Updating and managing the Totaldance website, filing 
 
 Responsibilities Included: Leading team meetings/conference calls, on site compliance auditing of data centers, excel spreadsheet manipulation, accessing SQL and CIRATS Databases, Scheduling meetings, interfacing with customers and internal IBM stakeholders, operations metrics reporting and organising internal IBM events.
 
-## Hobbies and Interests
 
 
 
 <details>
-  <summary>:zap: Github Stats</summary>
+  <summary>Github Stats</summary>
 
   <img align="left" alt="richardpattinson's Github Stats" src="https://github-readme-stats.vercel.app/api?username=richardpattinson&show_icons=true&hide_border=true" />
 

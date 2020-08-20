@@ -16,7 +16,7 @@ Aspiring developer and university of Bath Alumni. After graduating I worked for 
 
 ## Skills
 
-# Tech Skills
+### Tech Skills
 <div align="center">
 <a href="https://sourcerer.io/richardpattinson"><img src="https://img.shields.io/badge/Ruby-466%20commits-blue.svg" alt=""></a>
 <a href="https://sourcerer.io/richardpattinson"><img src="https://img.shields.io/badge/JavaScript-461%20commits-blue.svg" alt=""></a>
@@ -31,7 +31,7 @@ Aspiring developer and university of Bath Alumni. After graduating I worked for 
 - Tools: Git, PostgreSQL, Travis CI, Heroku, Code Climate, Codeship
 - HTML, CSS, Bootstrap, VSCode
 
-# Other Skills
+### Other Skills
 
 - Agile development, test-driven development, pair programming, storyboarding, process diagramming.
 - A quick study, willing and able to pick up any tech stack.

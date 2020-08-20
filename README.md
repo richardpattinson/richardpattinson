@@ -82,11 +82,11 @@ Responsibilities Included: Leading team meetings/conference calls, on site compl
 
 
 
-<details>
-  <summary>Github Stats</summary>
+<p>
+  <h4>:zap: Github Stats</h4>
 
   <img align="left" alt="richardpattinson's Github Stats" src="https://github-readme-stats.vercel.app/api?username=richardpattinson&show_icons=true&hide_border=true" />
 
-</details>
+</p>
 
 

@@ -1,51 +1,87 @@
-### Hi there, I'm Richard, and this is my Github - have a look at my website [onlineCv][website] 👋
-
-## I'm an Aspiring Fullstack Developer with a penchant for Python!
-
-- 🔭 I’m currently working on an Asset Management Tool [Simple Asset Tracker][simple_asset_tracker]!
-- 🌱 I’m currently learning Django, React and Node.js
-- 👯 I’m looking for
-- 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw, paint and cook
-
-### Connect with me:
-
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-
-<br />
-
-### Languages and Tools:
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />]
-[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />]
-[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />]
-[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />]
-[<img align="left" alt="React" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />]
-[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />]
-[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />]
-[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />]
-[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
-
-<br />
-<br />
-
----
-
-<details>
-  <summary>:zap: Recent Github Activity</summary>
+<div align="center">
   
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#249](https://github.com//abhisheknaiidu/awesome-github-profile-readme/issues/249) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//abhisheknaiidu/awesome-github-profile-readme)
-2. 🗣 Commented on [#249](https://github.com//abhisheknaiidu/awesome-github-profile-readme/issues/249) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//abhisheknaiidu/awesome-github-profile-readme)
-3. 💪 Opened PR [#249](https://github.com//abhisheknaiidu/awesome-github-profile-readme/pull/249) in [abhisheknaiidu/awesome-github-profile-readme](https://github.com//abhisheknaiidu/awesome-github-profile-readme)
-4. ❗️ Closed issue [#9](https://github.com//jamesgeorge007/github-activity-readme/issues/9) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
-5. 🗣 Commented on [#9](https://github.com//jamesgeorge007/github-activity-readme/issues/9) in [jamesgeorge007/github-activity-readme](https://github.com//jamesgeorge007/github-activity-readme)
-<!--END_SECTION:activity-->
+<h1> Richard Pattinson </h1>
+  <a href=https://www.linkedin.com/in/richard-pattinson-1517b578//>
+  <img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin-icon" height="40" width="40" hspace="20"></a>  
+  <a href="https://github.com/richardpattinson">
+  <img src="https://cdn0.iconfinder.com/data/icons/octicons/1024/mark-github-512.png" alt="github-icon" height="38" width="38" hspace="20"></a>
+  <a href="mailto:richie.pattinson@googlemail.com">
+  <img src="https://cdn3.iconfinder.com/data/icons/linecons-free-vector-icons-pack/32/mail-512.png" alt="email-icon" height="38" width="38" hspace="20"></a>
 
-</details>
+ **Software Developer based in London**<br/>
+[Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Hobbies and Interests](#hobbies-and-interests)
+
+</div>
+
+Aspiring developer and university of Bath Alumni. After graduating I worked for Hampshire Trust Bank setting up Experian API calls using Snaplogic and developing front end internal applications using Matssoft. In order to build on the development skills and agile practices used at the bank, I enrolled at makers academy, a software development bootcamp with a great track record of aiding new developers to acquire hands on experience working in teams, designing, implementing and testing their own applications. These hard skills in the ruby, python and javascript languages along with the ancillary skills of good git collaboration practices and mastery of workﬂow tools (such as jira and trello) put me in a great position to be an asset to any development team.
+
+
+## Tech Skills
+<div align="center">
+<a href="https://sourcerer.io/richardpattinson"><img src="https://img.shields.io/badge/Ruby-466%20commits-blue.svg" alt=""></a>
+<a href="https://sourcerer.io/richardpattinson"><img src="https://img.shields.io/badge/JavaScript-461%20commits-blue.svg" alt=""></a>
+<a href="https://sourcerer.io/richardpattinson"><img src="https://img.shields.io/badge/CSS-447%20commits-blue.svg" alt=""></a>
+<a href="https://sourcerer.io/richardpattinson"><img src="https://img.shields.io/badge/HTML-389%20commits-blue.svg" alt=""></a>
+<a href="https://sourcerer.io/richardpattinson"><img src="https://img.shields.io/badge/SQL-42%20commits-blue.svg" alt=""></a>
+</div>
+
+- JavaScript: ReactJS, jQuery, Jasmine, APIs
+- Ruby: Ruby on Rails, Sinatra, RSpec, Capybara, ActiveRecord
+- Python: Django, Unittest, Anaconda, Pycharm
+- Tools: Git, PostgreSQL, Travis CI, Heroku, Code Climate, Codeship
+- HTML, CSS, Bootstrap, VSCode
+
+## Other Skills
+
+- Agile development, test-driven development, pair programming, storyboarding, process diagramming,  
+- A quick study, willing and able to pick up any tech stack
+- Excellent team player, strong social skills and emotional intelligence, confident remote worker. 
+- Managing teams, leading meetings, organised with effective presentation skills.
+
+
+
+## Projects
+
+| Project           | Info            |
+| :------------:     | :-------------         |
+| [WanderList](https://github.com/Megscode/Wanderlist) <br /><br /><a href="https://github.com/Megscode/Wanderlist"><div align="center" width="500">![Wanderlist_Screenshot](screenshots/wanderlist.gif)</div></a> | <h4>Description</h4> Save your favourite walking routes, search routes near you and vote for your favourites. This is a Final Group project utilising the Google Maps, Directions and Places APIs<br/> <h4> Development & Testing </h4> Ruby, Rails, JavaScript, jQuery, Jasmine, ActiveRecord (postgreSQL), RSpec, Capybara <h4> Code Quality & Deployment </h4> Travis CI, Heroku, Rubocop, Code Climate | 
+| [SimpleAssetTracker](https://github.com/Megscode/Wanderlist) <br /><br /><a href="https://github.com/Megscode/Wanderlist"><div align="center" width="500">![Wanderlist_Screenshot](screenshots/wanderlist.gif)</div></a> | <h4>Description</h4> Save your favourite walking routes, search routes near you and vote for your favourites. This is a Final Group project utilising the Google Maps, Directions and Places APIs<br/> <h4> Development & Testing </h4> Ruby, Rails, JavaScript, jQuery, Jasmine, ActiveRecord (postgreSQL), RSpec, Capybara <h4> Code Quality & Deployment </h4> Travis CI, Heroku, Rubocop, Code Climate | 
+
+
+## Education
+
+#### Makers Academy (Dec '19 - Apr '20)
+
+
+
+#### University of Bath (Sept '14 - Jun '17)
+
+BSc Chemistry | Grade 2:2
+
+As part of my chemistry degree I completed a dissertation on modeling the surfaces of solid oxide exchange fuel cells. This was done using  Metadise to determine the properties of the oxide exchange cathode and these properties were used to generate a 3D crystal structure. This project introduced me to the python programming language and prompted me to continue learn the language independently.
+
+
+## Experience
+
+**Hamsphire Trust Bank | It Department Helpdesk** (Jan '18 - Present)    
+ 
+Responsibilities Include: Compiling financial reporting and tracking documents, technical support, developing business apps using mattsoft and building API integration's with experian using snaplogic. 
+
+**Host Staffing | Contractor** (Oct '18 - Jun '19)    
+
+Responsibilities Included: Running festival events, plate waiting, manual carrying, leading small teams of people to deliver fantastic customer experiences.
+
+**DanceStore Ltd | IT Manager** (University HolidaAug '15 - Oct '18)   
+
+Responsibilities Included: Updating and managing the Totaldance website, filing bug reports, organising email promotion campaigns, integrating a stock administration system and general technical support
+
+**IBM | PSM Analyst** (Jul '13 - May '14)   
+
+Responsibilities Included: Leading team meetings/conference calls, on site compliance auditing of data centers, excel spreadsheet manipulation, accessing SQL and CIRATS Databases, Scheduling meetings, interfacing with customers and internal IBM stakeholders, operations metrics reporting and organising internal IBM events.
+
+## Hobbies and Interests
+
+
 
 <details>
   <summary>:zap: Github Stats</summary>
@@ -54,6 +90,4 @@
 
 </details>
 
-[website]: https://codeSTACKr.com
-[simple_asset_tracker]: https://simple-asset-tracker.herokuapp.com
-[wanderlist]: https://wanderlist-makers.herokuapp.com/
+

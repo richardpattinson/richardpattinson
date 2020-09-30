@@ -73,7 +73,7 @@ Responsibilities Include: Compiling financial reporting and tracking documents, 
 
 Responsibilities Included: Running festival events, plate waiting, manual carrying, leading small teams of people to deliver fantastic customer experiences.
 
-**DanceStore Ltd | IT Manager** (University HolidaAug '15 - Oct '18)   
+**DanceStore Ltd | IT Manager** (University Holidays Aug '15 - Oct '18)   
 
 Responsibilities Included: Updating and managing the Totaldance website, filing bug reports, organising email promotion campaigns, integrating a stock administration system and general technical support.
 

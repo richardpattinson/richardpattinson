@@ -65,7 +65,7 @@ As part of my chemistry degree I completed a dissertation on modeling the surfac
 
 ## Experience
 
-**Hamsphire Trust Bank | It Department Helpdesk** (Jan '18 - Present)    
+**Hamsphire Trust Bank | It Department Helpdesk** (Jan '19 - Present)    
  
 Responsibilities Include: Compiling financial reporting and tracking documents, technical support, developing business apps using mattsoft and building API integration's with experian using snaplogic. 
 

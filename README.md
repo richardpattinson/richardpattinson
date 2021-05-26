@@ -12,7 +12,7 @@
 [Skills](#skills) | [Projects](#projects) | [Education](#education) | [Experience](#experience) | [Commits](#githubstats)
 </div>
 
-Aspiring developer and university of Bath Alumni. After graduating I worked for Hampshire Trust Bank setting up Experian API calls using Snaplogic and developing front end internal applications using Matssoft. In order to build on the development skills and agile practices used at the bank, I enrolled at makers academy, a software development bootcamp with a great track record of aiding new developers to acquire hands on experience working in teams, designing, implementing and testing their own applications. These hard skills in the ruby, python and javascript languages along with the ancillary skills of good git collaboration practices and mastery of workﬂow tools (such as jira and trello) put me in a great position to be an asset to any development team.
+Civil servant, software developer and University of Bath Alumnus. After graduating I worked for Hampshire Trust Bank setting up Experian API calls using Snaplogic and developing front end internal applications using Matssoft. In order to build on the development skills and agile practices used at the bank, I enrolled at makers academy, a software development bootcamp with a great track record of aiding new developers to acquire hands on experience working in teams, designing, implementing and testing their own applications. These skills in the ruby, python and javascript languages allowed me to secure my first professional development role at the department for education working on the Becoming a Teacher service. 
 
 ## Skills
 
@@ -65,7 +65,11 @@ As part of my chemistry degree I completed a dissertation on modeling the surfac
 
 ## Experience
 
-**Hamsphire Trust Bank | It Department Helpdesk** (Jan '19 - Present)    
+**Department for Education| Junior Software Developer** (Jan '21 - Present)    
+ 
+Responsibilities Include: Bugfixing, implementing new application features, peer reviewing code, contributing to team rituals, leading talks and presenting my work to the deparment at large, liasing with designers and user research teams to produce fantastic user experiences.
+
+**Hamsphire Trust Bank | It Department Helpdesk** (Jan '19 - Dec-19)    
  
 Responsibilities Include: Compiling financial reporting and tracking documents, technical support, developing business apps using mattsoft and building API integration's with experian using snaplogic. 
 

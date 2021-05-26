@@ -49,20 +49,6 @@ Civil servant, software developer and University of Bath Alumnus. After graduati
 | [Amplify Notes Repo](https://github.com/richardpattinson/amplifyapp) <br /><br /><a href="https://github.com/Megscode/Wanderlist"><div align="center" width="500">| <h4>Description</h4>First foray into an AWS backed react notes App<br/> <h4> Development & Testing </h4> AWS, React 
 | [MachineLearning Example](https://github.com/richardpattinson/MachineLearning) <br /><br /><a href="https://github.com/richardpattinson/MachineLearning"><div align="center" width="500"> | <h4>Description</h4>A small demo of machinelearning concepts using the iris flowers dataset.<br/> <h4> Development & Testing </h4> Python, Pandas, SKlearn 
 
-
-## Education
-
-#### Makers Academy (Dec '19 - Apr '20)
-
-After the end of my contract at Hampshire trust bank I embarked upon the next stage of my career training in software development. Primary languages studied were ruby, python and JavaScript. Please go to my GitHub linked in the header to see some examples of the projects I have worked on and the skills I have learned.
-
-#### University of Bath (Sept '14 - Jun '17)
-
-BSc Chemistry | Grade 2:2
-
-As part of my chemistry degree I completed a dissertation on modeling the surfaces of solid oxide exchange fuel cells. This was done using  Metadise to determine the properties of the oxide exchange cathode and these properties were used to generate a 3D crystal structure. This project introduced me to the python programming language and prompted me to continue learn the language independently.
-
-
 ## Experience
 
 **Department for Education| Junior Software Developer** (Jan '21 - Present)    
@@ -84,6 +70,19 @@ Responsibilities Included: Updating and managing the Totaldance website, filing 
 **IBM | PSM Analyst** (Jul '13 - May '14)   
 
 Responsibilities Included: Leading team meetings/conference calls, on site compliance auditing of data centers, excel spreadsheet manipulation, accessing SQL and CIRATS Databases, Scheduling meetings, interfacing with customers and internal IBM stakeholders, operations metrics reporting and organising internal IBM events.
+  
+  
+## Education
+
+#### Makers Academy (Dec '19 - Apr '20)
+
+After the end of my contract at Hampshire trust bank I embarked upon the next stage of my career training in software development. Primary languages studied were ruby, python and JavaScript. Please go to my GitHub linked in the header to see some examples of the projects I have worked on and the skills I have learned.
+
+#### University of Bath (Sept '14 - Jun '17)
+
+BSc Chemistry | Grade 2:2
+
+As part of my chemistry degree I completed a dissertation on modeling the surfaces of solid oxide exchange fuel cells. This was done using  Metadise to determine the properties of the oxide exchange cathode and these properties were used to generate a 3D crystal structure. This project introduced me to the python programming language and prompted me to continue learn the language independently.
 
 ## GithubStats
 <p>

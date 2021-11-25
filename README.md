@@ -2,7 +2,7 @@
   
 <h1> Richard Pattinson </h1>
   <a href=https://www.linkedin.com/in/richard-pattinson-1517b578//>
-  <img src="https://www.iconfinder.com/data/icons/free-social-icons/67/linkedin_circle_color-512.png" alt="linkedin-icon" height="40" width="40" hspace="20"></a>  
+  <img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-1024.png" alt="linkedin-icon" height="40" width="40" hspace="20"></a>  
   <a href="https://github.com/richardpattinson">
   <img src="https://cdn0.iconfinder.com/data/icons/octicons/1024/mark-github-512.png" alt="github-icon" height="38" width="38" hspace="20"></a>
   <a href="mailto:richie.pattinson@googlemail.com">
